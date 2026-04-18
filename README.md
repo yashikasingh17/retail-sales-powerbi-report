@@ -11,14 +11,14 @@ This project is an interactive Power BI dashboard built to analyze marketing cam
 - DAX (Data Analysis Expressions)
 - Power Query
 
-## 📈 Key Metrics
+## Key Metrics
 - Total Sales
 - Customer Response Rate
 - Campaign Performance
 - Product-wise Revenue
 - Profit Analysis
 
-## 💡 Key Insights
+## Key Insights
 - Certain campaigns generated significantly higher customer engagement.
 - High-revenue products do not always yield the highest profit margins.
 - Customer response varies based on campaign type and targeting.
