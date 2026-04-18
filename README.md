@@ -24,11 +24,9 @@ This project is an interactive Power BI dashboard created to analyze sales, prof
 - Some categories had strong revenue but lower profit margins.
 - The dashboard helps identify high-performing and low-performing segments.
 
-## Files in this Repository
-- `report/Sales_Dashboard.pbix` – Power BI dashboard file
-- `data/sample_dataset.xlsx` – dataset used for analysis
-- `images/` – dashboard screenshots
-- `docs/project-insights.pdf` – report summary
+## 📁 Files in This Repository
+- `POWER BI REPORT.pbit` → Power BI dashboard template
+- `marketing_campaign_dataset.csv` → Dataset used for analysis
 
 ## Dashboard Preview
 ![Dashboard Overview](images/dashboard-overview.png)
