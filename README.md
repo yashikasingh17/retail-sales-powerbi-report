@@ -26,7 +26,7 @@ This project is an interactive Power BI dashboard built to analyze marketing cam
 
 ## Files in This Repository
 - `POWER BI REPORT.pbit` → Power BI dashboard template
-- `marketing_campaign_dataset.csv` → Dataset used for analysis
+- `E-commerce Sales and Customer Analytics.csv` → Dataset used for analysis
 
 ## Dashboard Preview
 (Add screenshots here once you upload them)
