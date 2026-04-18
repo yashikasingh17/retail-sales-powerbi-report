@@ -1,11 +1,11 @@
 # retail-sales-powerbi-report
 Interactive Power BI dashboard analyzing sales, profit, category performance, and business insights using Excel, DAX, and data visualization techniques.
-# 📊 Power BI Marketing & Sales Dashboard
+# Power BI Marketing & Sales Dashboard
 
-## 🔍 Overview
+## Overview
 This project is an interactive Power BI dashboard built to analyze marketing campaign performance, sales trends, and customer behavior. It demonstrates data analysis, visualization, and business insight generation using real-world style data.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Excel / CSV Data
 - DAX (Data Analysis Expressions)
@@ -24,20 +24,20 @@ This project is an interactive Power BI dashboard built to analyze marketing cam
 - Customer response varies based on campaign type and targeting.
 - Data helps identify which campaigns should be scaled or optimized.
 
-## 📁 Files in This Repository
+## Files in This Repository
 - `POWER BI REPORT.pbit` → Power BI dashboard template
 - `marketing_campaign_dataset.csv` → Dataset used for analysis
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 (Add screenshots here once you upload them)
 
-## 🚀 How to Use
+## How to Use
 1. Download the `.pbit` file
 2. Open in Power BI Desktop
 3. Load the dataset (`marketing_campaign_dataset.csv`)
 4. Explore the dashboard visuals and filters
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Built an end-to-end Power BI project
 - Practiced data cleaning and transformation
 - Created interactive dashboards
