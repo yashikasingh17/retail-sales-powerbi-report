@@ -34,7 +34,7 @@ This project is an interactive Power BI dashboard built to analyze marketing cam
 ## How to Use
 1. Download the `.pbit` file
 2. Open in Power BI Desktop
-3. Load the dataset (`marketing_campaign_dataset.csv`)
+3. Load the dataset (`E-commerce Sales and Customer Analytics.csv`)
 4. Explore the dashboard visuals and filters
 
 ## Learning Outcomes
