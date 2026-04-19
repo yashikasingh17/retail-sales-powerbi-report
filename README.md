@@ -29,7 +29,8 @@ This project is an interactive Power BI dashboard built to analyze marketing cam
 - `E-commerce Sales and Customer Analytics.csv` → Dataset used for analysis
 
 ## Dashboard Preview
-(Add screenshots here once you upload them)
+[power BI.pdf](https://github.com/user-attachments/files/26872129/power.BI.pdf)
+
 
 ## How to Use
 1. Download the `.pbit` file
